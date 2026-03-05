@@ -12,6 +12,10 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 
+## ⛔ Host Based Adblocker 
+
+- **[Host Based Adblocker using Raspberry Pi Zero 2 W. implemented with Pi-hole DNS](https://github.com/aydinhussain06-tech/pihole-adblocker-raspberrypi)**
+
 <hr/>
 
 ## 🤳 Connect With Me
