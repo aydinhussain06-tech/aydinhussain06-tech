@@ -14,7 +14,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## ⛔ Host Based Adblocker 
 
-- **[Host Based Adblocker using Raspberry Pi Zero 2 W. implemented with Pi-hole DNS](https://github.com/aydinhussain06-tech/pihole-adblocker-raspberrypi)**
+- **[Host Based Adblocker using Raspberry Pi Zero 2 W., implemented with Pi-hole DNS](https://github.com/aydinhussain06-tech/pihole-adblocker-raspberrypi)**
 
 <hr/>
 
