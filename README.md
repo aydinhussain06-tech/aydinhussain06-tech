@@ -10,6 +10,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🚨 Threat Hunting and Security Operations
 
+- **[Threat Hunting Scenario (Data Transfer)](https://github.com/aydinhussain06-tech/Threat-Hunting-Scenario-Cargo-Hold-)**
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/aydinhussain06-tech/threat-hunting-scenario-tor)**
 
 ## ⛔ Host Based Adblocker 
