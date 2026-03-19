@@ -6,7 +6,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/aydinhussain06-tech/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/aydinhussain06-tech/programmatic-vulnerability-remediations)**
+- **[Programmatic Vulnerability Remediations (PowerShell)](https://github.com/aydinhussain06-tech/programmatic-vulnerability-remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
 
