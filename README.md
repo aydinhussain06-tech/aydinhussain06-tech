@@ -8,7 +8,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Vulnerability Management Program Implementation](https://github.com/aydinhussain06-tech/vulnerability-management-program)**
 - **[Programmatic Vulnerability Remediations (PowerShell)](https://github.com/aydinhussain06-tech/programmatic-vulnerability-remediations)**
 
-## 🔍 Web Application Security Tooling
+## 🔍 Web Application Security Enumeration
 
 - **[CMSwebenum: Pluggable CMS Enumeration Tool (Python) with CVE Lookup and Local LLM Triage](https://github.com/aydinhussain06-tech/CMSwebenum)**
 
