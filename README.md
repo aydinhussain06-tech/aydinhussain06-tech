@@ -13,6 +13,10 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Threat Hunting Scenario (Data Transfer)](https://github.com/aydinhussain06-tech/Threat-Hunting-Scenario-Cargo-Hold-)**
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/aydinhussain06-tech/threat-hunting-scenario-tor)**
 
+## 🔍 Web Application Security Tooling
+
+* **[CMSwebenum: Pluggable CMS Enumeration Tool (Python) with CVE Lookup and Local LLM Triage](https://github.com/aydinhussain06-tech/CMSwebenum)**
+
 ## ⛔ Host Based Adblocker 
 
 - **[Host Based Adblocker using Raspberry Pi Zero 2 W., implemented with Pi-hole DNS](https://github.com/aydinhussain06-tech/pihole-adblocker-raspberrypi)**
